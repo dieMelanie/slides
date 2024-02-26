@@ -1,0 +1,23 @@
+.mf_logo {
+    display: block;
+    position: fixed;
+    bottom: unset !important;
+    max-width: unset !important;
+    max-height: unset !important;
+}
+
+.mf_logo_main {
+    right: unset !important;
+    width: 20% !important;
+    top:0;
+    left: 0;
+    padding: .2em;
+}
+.mf_logo_event {
+    left: unset !important;
+    width: 30% !important;
+    text-align: right;
+    top:0;
+    right: 0;
+    padding: .4em .2em .2em .2em;
+}
